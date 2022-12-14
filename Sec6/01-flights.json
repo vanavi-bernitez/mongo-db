@@ -1,0 +1,40 @@
+[
+  {
+    "departureAirport": "MUC",
+    "arrivalAirport": "SFO",
+    "aircraft": "Airbus A380",
+    "distance": 12000,
+    "intercontinental": true
+  },
+  {
+    "departureAirport": "LHR",
+    "arrivalAirport": "TXL",
+    "aircraft": "Airbus A320",
+    "distance": 950,
+    "intercontinental": false
+  }
+]
+
+USER COLLECTION FROM BLOG DB
+[
+  {
+    "name": "Nombre1",
+    "age": 25,
+    "email": "name_1@correo.com"
+  },
+  {
+    "name": "Nombre2",
+    "age": 32,
+    "email": "name_2@correo.com"
+  }
+]
+
+POSTS COLLECTION FROM BLOG DB 
+
+  {
+    "title": "It's a post",
+    "text": "Here goes a post text",
+    "tags": ["tag1", "tag2"],
+    "creator": ObjectId("6362ed297dc5b3ae4d909a11"),
+    "comments": [{"text": "fun post", "author": ObjectId("6362ed297dc5b3ae4d909a10")}]
+  }

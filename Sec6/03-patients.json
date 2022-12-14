@@ -1,0 +1,29 @@
+[
+    {
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "age": 41,
+      "history": [
+        {"disease": "cold", "treatment": "cough mixture"},
+        {"admission": 2}
+      ]
+    },
+    {
+      "firstName": "Pepa",
+      "lastName": "Perez",
+      "age": 16,
+      "history": [
+        {"disease": "cold", "treatment": "cough mixture"},
+        {"admission": 1}
+      ]
+    },
+    {
+        "firstName": "Julio",
+        "lastName": "Aguilar",
+        "age": 27,
+        "history": [
+          {"disease": "headache", "treatment": "acetaminophen"},
+          {"admission": 2}
+        ]
+      }
+  ]
